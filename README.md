@@ -23,7 +23,7 @@ So I decided to create a customized version of the original watchface.
 This is how it looks:  
 ![animated](A-Jey_packed_animated.gif) ![static](A-Jey_packed_static.png)  
   
-And here is a comparizon between the original version (left) and my custom version (right):  
+And here is a comparizon between the original (left) and my custom version (right):  
 ![compare](/compare.png)  
   
 To change the original watchface you need to copy the files  
