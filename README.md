@@ -28,7 +28,8 @@ And here is a comparizon between the original (left) and my custom version (righ
   
 To change the original watchface you need to copy the files  
 [my_image.png](my_image.png) and [my_watchface.bin](my_watchface.bin) into the XDRIP folder on your phone  
-and then either activate MiBand use in your [altered xDrip+ App](https://bigdigital.home.blog/2020/08/25/new-xdrip-now-supports-miband-5/) or inside [WatchDrip+](https://bigdigital.home.blog/2022/06/16/watchdrip-a-new-application-for-xdrip-watch-integration/) if you use that.  
+and then either activate "Allow to use custom..." in the MiBand settings of your [altered xDrip+ App](https://bigdigital.home.blog/2020/08/25/new-xdrip-now-supports-miband-5/)  
+or activate "Use custom watchface" inside your [WatchDrip+ App](https://bigdigital.home.blog/2022/06/16/watchdrip-a-new-application-for-xdrip-watch-integration/) if you use that.  
   
 I hope you like my version of the watchface.  
   
