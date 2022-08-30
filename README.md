@@ -11,7 +11,7 @@ This makes it possible to use the original xDrip+ App which results in an easier
 The steps, temperature and battery appeared too small to read for me and I also missed the heartrate.  
 So I decided to create a customised version of the original watchface with the following changes:  
 
-• new font and larger for the small letters  
+• new font with a larger version of the small letters and numbers  
 • moved weather icon and temperature to bottom right and removed other parts  
 • moved battery to top right, added % sign and changed icon
 • moved weekday and date below time
@@ -19,6 +19,9 @@ So I decided to create a customised version of the original watchface with the f
 • added distance below with value and icon as separator  
 • added calories below with value and icon  
 • added heartrate below with icon and value  
+• removed the artefacts top left of the graph with a mask  
+• changed the graph to full width of display  
+• made the delta and treatment text below sugarlevel a bit larger
   
 This is what it looks like:  
 ![animated](A-Jey_packed_animated.gif) ![static](A-Jey_packed_static.png)  
