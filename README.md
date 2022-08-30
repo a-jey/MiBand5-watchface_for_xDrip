@@ -9,16 +9,16 @@ It's even better now with the new created [WatchDrip+ App](https://bigdigital.ho
 This makes it possible to use the original xDrip+ App which results in an easier update process.  
   
 The steps, temperature and battery appeared too small to read for me and I also missed the heartrate.  
-So I decided to create a customized version of the original watchface.  
-  
-• changed the font and enlarged the smaller one  
+So I decided to create a customized version of the original watchface with the following changes:  
+
+• new font and larger for the small letters  
 • moved weather icon and temperature to bottom right and removed other parts  
 • moved battery to top right, added % sign and changed icon
 • moved weekday and date below time
-• moved up steps a bit and changed icon  
-• added distance below with numbers and icon as separator  
-• added calories below with numbers and icon  
-• added heartrate below with icon and numbers  
+• moved up steps value a bit and changed icon  
+• added distance below with value and icon as separator  
+• added calories below with value and icon  
+• added heartrate below with icon and value  
   
 This is how it looks:  
 ![animated](A-Jey_packed_animated.gif) ![static](A-Jey_packed_static.png)  
