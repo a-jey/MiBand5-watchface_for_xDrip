@@ -20,7 +20,7 @@ So I decided to create a customized version of the original watchface with the f
 • added calories below with value and icon  
 • added heartrate below with icon and value  
   
-This is how it looks:  
+This is what it looks like:  
 ![animated](A-Jey_packed_animated.gif) ![static](A-Jey_packed_static.png)  
   
 And here is a comparizon between the original (left) and my custom version (right):  
