@@ -9,7 +9,7 @@ It's even better now with the new created [WatchDrip+ App](https://bigdigital.ho
 This makes it possible to use the original xDrip+ App which results in an easier update process.  
   
 The steps, temperature and battery appeared too small to read for me and I also missed the heartrate.  
-So I decided to create a customized version of the original watchface with the following changes:  
+So I decided to create a customised version of the original watchface with the following changes:  
 
 • new font and larger for the small letters  
 • moved weather icon and temperature to bottom right and removed other parts  
